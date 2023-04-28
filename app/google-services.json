@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512613722473",
+    "project_id": "database-project-53b25",
+    "storage_bucket": "database-project-53b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512613722473:android:8ebbc83c7a1d24392cb5f8",
+        "android_client_info": {
+          "package_name": "com.aditi.databaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512613722473-3dq7d0kg4i3dol4vckl6qposudda1mgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4fBAyUhY-t0skIgj-KcJ0ZrEO-ji9Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512613722473-3dq7d0kg4i3dol4vckl6qposudda1mgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
